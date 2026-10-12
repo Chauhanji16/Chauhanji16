@@ -31,8 +31,8 @@ I believe consistent practice and hands-on learning are the keys to growth — s
 |----------------|----------------------------------|
 | **Languages**  | Java, HTML5, CSS3, JavaScript    |
 | **Backend**    | Spring Boot *(learning)*         |
-| **Databases**  | MySQL *(learning)*               |
-| **Tools**      | Git, GitHub ,Postman,Intellij idea
+| **Databases**  | MySQL *(learning)*  , MongoDB    |
+| **Tools**      | Git, GitHub ,Postman,Intellij idea , DBeaver
 |                   
 | **Currently Learning** | Backend Development, DSA, System Design basics |
 
