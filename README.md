@@ -13,7 +13,7 @@ Narayanpur, Chaubeypur, Varanasi, Uttar Pradesh | Open to Backend Development Op
 
 ---
 
-## 🧭 About Me
+##  About Me
 
 I'm a **BCA student** passionate about **Backend Development**, continuously working towards becoming a skilled and industry-ready backend engineer. I'm currently strengthening my knowledge of **Java, Spring Boot, MySQL**, and backend concepts, while exploring how real-world applications are designed, built, and maintained.
 
@@ -25,19 +25,20 @@ I believe consistent practice and hands-on learning are the keys to growth — s
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category      | Skills                          |
 |----------------|----------------------------------|
 | **Languages**  | Java, HTML5, CSS3, JavaScript    |
 | **Backend**    | Spring Boot *(learning)*         |
 | **Databases**  | MySQL *(learning)*               |
-| **Tools**      | Git, GitHub                      |
+| **Tools**      | Git, GitHub ,Postman,Intellij 
+|                   idea ,
 | **Currently Learning** | Backend Development, DSA, System Design basics |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Chauhanji16&show_icons=true&theme=tokyonight" alt="Sahil's GitHub Stats" />
