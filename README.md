@@ -38,15 +38,7 @@ I believe consistent practice and hands-on learning are the keys to growth — s
 
 ---
 
-##  GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chauhanji16&show_icons=true&theme=tokyonight" alt="Sahil's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chauhanji16&theme=tokyonight" alt="Sahil's GitHub Streak" />
-</p>
 
 ---
 
